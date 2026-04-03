@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>sk62-1</Id>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <Region>Рязанская область</Region>
+    <City>Рязань</City>
+    <Address>ЖК Бирюзова Парк</Address>
+    <Rooms>2</Rooms>
+    <Square>56.2</Square>
+    <Floor>5</Floor>
+    <FloorsTotal>16</FloorsTotal>
+    <Price>6100000</Price>
+    <Description>Квартира в новом доме. Удобная планировка.</Description>
+    <SellerName>Олег</SellerName>
+    <ContactPhone>+789109016541</ContactPhone>
+  </Ad>
+</Ads>
