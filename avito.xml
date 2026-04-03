@@ -1,19 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
+
+  <!-- 1К -->
   <Ad>
-    <Id>sk62-1</Id>
+    <Id>sk62-1-38</Id>
     <Category>Квартиры</Category>
     <OperationType>Продам</OperationType>
     <Region>Рязанская область</Region>
     <City>Рязань</City>
-    <Address>ЖК Бирюзова Парк</Address>
+    <District>Московский</District>
+    <Address>ЖК Бирюзова Парк, корпус 1</Address>
+    <Rooms>1</Rooms>
+    <Square>38.5</Square>
+    <Floor>3</Floor>
+    <FloorsTotal>16</FloorsTotal>
+    <Price>4200000</Price>
+    <Description>1-комнатная квартира 38.5 м² на 3 этаже. Новый дом, удобная планировка, подходит под ипотеку.</Description>
+    <SellerName>Олег</SellerName>
+    <ContactPhone>+789109016541</ContactPhone>
+  </Ad>
+
+  <Ad>
+    <Id>sk62-1-40</Id>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <Region>Рязанская область</Region>
+    <City>Рязань</City>
+    <District>Московский</District>
+    <Address>ЖК Бирюзова Парк, корпус 1</Address>
+    <Rooms>1</Rooms>
+    <Square>40.1</Square>
+    <Floor>5</Floor>
+    <FloorsTotal>16</FloorsTotal>
+    <Price>4450000</Price>
+    <Description>1-комнатная квартира в современном ЖК. Отличный вариант для проживания или инвестиций.</Description>
+    <SellerName>Олег</SellerName>
+    <ContactPhone>+789109016541</ContactPhone>
+  </Ad>
+
+  <!-- 2К -->
+  <Ad>
+    <Id>sk62-2-56</Id>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <Region>Рязанская область</Region>
+    <City>Рязань</City>
+    <District>Московский</District>
+    <Address>ЖК Бирюзова Парк, корпус 1</Address>
     <Rooms>2</Rooms>
     <Square>56.2</Square>
     <Floor>5</Floor>
     <FloorsTotal>16</FloorsTotal>
     <Price>6100000</Price>
-    <Description>Квартира в новом доме. Удобная планировка.</Description>
+    <Description>2-комнатная квартира 56.2 м² с удобной планировкой. Новый дом, выгодная цена.</Description>
     <SellerName>Олег</SellerName>
     <ContactPhone>+789109016541</ContactPhone>
   </Ad>
+
+  <Ad>
+    <Id>sk62-2-60</Id>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <Region>Рязанская область</Region>
+    <City>Рязань</City>
+    <District>Московский</District>
+    <Address>ЖК Бирюзова Парк, корпус 1</Address>
+    <Rooms>2</Rooms>
+    <Square>60.4</Square>
+    <Floor>8</Floor>
+    <FloorsTotal>16</FloorsTotal>
+    <Price>6550000</Price>
+    <Description>Просторная 2-комнатная квартира на среднем этаже. Хороший вариант для семьи.</Description>
+    <SellerName>Олег</SellerName>
+    <ContactPhone>+789109016541</ContactPhone>
+  </Ad>
+
+  <!-- 3К -->
+  <Ad>
+    <Id>sk62-3-91</Id>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <Region>Рязанская область</Region>
+    <City>Рязань</City>
+    <District>Московский</District>
+    <Address>ЖК Бирюзова Парк, корпус 1</Address>
+    <Rooms>3</Rooms>
+    <Square>91.82</Square>
+    <Floor>7</Floor>
+    <FloorsTotal>16</FloorsTotal>
+    <Price>10167200</Price>
+    <Description>Просторная 3-комнатная квартира. Отлично подходит для семьи, современный жилой комплекс.</Description>
+    <SellerName>Олег</SellerName>
+    <ContactPhone>+789109016541</ContactPhone>
+  </Ad>
+
+  <Ad>
+    <Id>sk62-3-93</Id>
+    <Category>Квартиры</Category>
+    <OperationType>Продам</OperationType>
+    <Region>Рязанская область</Region>
+    <City>Рязань</City>
+    <District>Московский</District>
+    <Address>ЖК Бирюзова Парк, корпус 1</Address>
+    <Rooms>3</Rooms>
+    <Square>93.45</Square>
+    <Floor>12</Floor>
+    <FloorsTotal>16</FloorsTotal>
+    <Price>10349760</Price>
+    <Description>3-комнатная квартира на высоком этаже с хорошим видом. Выгодное предложение.</Description>
+    <SellerName>Олег</SellerName>
+    <ContactPhone>+789109016541</ContactPhone>
+  </Ad>
+
 </Ads>
